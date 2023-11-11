@@ -3,7 +3,7 @@ using esercizi;
 
 Console.WriteLine("Hello, World!");
 
-/*
+
 // 2' esercizio                                         Now it's personal
 Console.WriteLine("Insersci il tuo nome");  
 
@@ -88,6 +88,6 @@ Animal cat = new Cat();
 cat.Name = "Silvestro";
 cat.Age = 20;
 cat.Speak();
-*/
+
 
 // 5' esercizio
