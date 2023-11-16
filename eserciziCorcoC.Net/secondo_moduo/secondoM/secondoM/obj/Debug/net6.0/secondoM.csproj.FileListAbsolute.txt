@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\secondoM\secondoM\bin\Debug\net6.0\secondoM.exe
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\secondoM\secondoM\bin\Debug\net6.0\secondoM.deps.json
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\secondoM\secondoM\bin\Debug\net6.0\secondoM.runtimeconfig.json
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\secondoM\secondoM\bin\Debug\net6.0\secondoM.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\secondoM\secondoM\bin\Debug\net6.0\secondoM.pdb
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\secondoM\secondoM\obj\Debug\net6.0\secondoM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\secondoM\secondoM\obj\Debug\net6.0\secondoM.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\secondoM\secondoM\obj\Debug\net6.0\secondoM.AssemblyInfo.cs
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\secondoM\secondoM\obj\Debug\net6.0\secondoM.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\secondoM\secondoM\obj\Debug\net6.0\secondoM.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\secondoM\secondoM\obj\Debug\net6.0\refint\secondoM.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\secondoM\secondoM\obj\Debug\net6.0\secondoM.pdb
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\secondoM\secondoM\obj\Debug\net6.0\secondoM.genruntimeconfig.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\secondoM\secondoM\obj\Debug\net6.0\ref\secondoM.dll
