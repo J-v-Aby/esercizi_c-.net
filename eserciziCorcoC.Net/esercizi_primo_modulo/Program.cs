@@ -1,6 +1,6 @@
 ﻿// 1' esercizio                                    Create a "Hello, World!" application
 using esercizi;
-/*
+
 Console.WriteLine("Hello, World! (esercizio 1");
 
 
@@ -79,21 +79,23 @@ string ReverseString(string? userQuote)
 
 Console.WriteLine($" perdonami hai detto {reverseQuote}?\n\n scusa ho elaborato male, volevi dire {userQuote}");
 
-*/
+
 
 // 5' esercizio                                               Reading from a file
 Console.WriteLine("esercizio 5");
 Console.WriteLine("inserisci i tuoi proverbi preferiti");
-string? userQuote = Console.ReadLine();
-const string path = "./ output.txt";
+string? userQuote2 = Console.ReadLine();
+const string path = "./ output.txt";                                            
 //File.WriteAllText( "./ output.txt",userQuote);     crea sempre un file
 //File.AppendAllText("./ output.txt", userQuote);    modifica il file attaccando i risultati
-File.AppendAllLines(path, new[] { userQuote });       // ????        contents:
+File.AppendAllLines(path, new[] { userQuote2 });       // ????        contents:
 Console.WriteLine("il tuo ultimo proverbio");
-var text= File.ReadAllText("C:/Users/pc/Desktop/ptresentazione secondo progetto.txt"); 
+var text= File.ReadAllText(path); 
+var text2= File.ReadAllText("C:/Users/pc/Desktop/ptresentazione secondo progetto.txt"); 
 Console.WriteLine(text);
+Console.WriteLine(text2);
 
-/*
+
 //e 6' esercizio                                                Inheritance
 Console.WriteLine("esercizio 6");
 
@@ -150,6 +152,4 @@ fahrenheit.Calcolatore(656);
 celsius.Calcolatore(95);
 
 
-//7' esercizio
-*/
 

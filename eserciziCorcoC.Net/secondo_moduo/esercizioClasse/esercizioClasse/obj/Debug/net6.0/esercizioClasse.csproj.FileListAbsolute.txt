@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioClasse\esercizioClasse\bin\Debug\net6.0\esercizioClasse.exe
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioClasse\esercizioClasse\bin\Debug\net6.0\esercizioClasse.deps.json
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioClasse\esercizioClasse\bin\Debug\net6.0\esercizioClasse.runtimeconfig.json
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioClasse\esercizioClasse\bin\Debug\net6.0\esercizioClasse.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioClasse\esercizioClasse\bin\Debug\net6.0\esercizioClasse.pdb
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioClasse\esercizioClasse\obj\Debug\net6.0\esercizioClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioClasse\esercizioClasse\obj\Debug\net6.0\esercizioClasse.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioClasse\esercizioClasse\obj\Debug\net6.0\esercizioClasse.AssemblyInfo.cs
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioClasse\esercizioClasse\obj\Debug\net6.0\esercizioClasse.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioClasse\esercizioClasse\obj\Debug\net6.0\esercizioClasse.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioClasse\esercizioClasse\obj\Debug\net6.0\refint\esercizioClasse.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioClasse\esercizioClasse\obj\Debug\net6.0\esercizioClasse.pdb
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioClasse\esercizioClasse\obj\Debug\net6.0\esercizioClasse.genruntimeconfig.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioClasse\esercizioClasse\obj\Debug\net6.0\ref\esercizioClasse.dll
