@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioTreni\esercizioTreni\bin\Debug\net6.0\esercizioTreni.exe
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioTreni\esercizioTreni\bin\Debug\net6.0\esercizioTreni.deps.json
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioTreni\esercizioTreni\bin\Debug\net6.0\esercizioTreni.runtimeconfig.json
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioTreni\esercizioTreni\bin\Debug\net6.0\esercizioTreni.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioTreni\esercizioTreni\bin\Debug\net6.0\esercizioTreni.pdb
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioTreni\esercizioTreni\obj\Debug\net6.0\esercizioTreni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioTreni\esercizioTreni\obj\Debug\net6.0\esercizioTreni.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioTreni\esercizioTreni\obj\Debug\net6.0\esercizioTreni.AssemblyInfo.cs
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioTreni\esercizioTreni\obj\Debug\net6.0\esercizioTreni.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioTreni\esercizioTreni\obj\Debug\net6.0\esercizioTreni.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioTreni\esercizioTreni\obj\Debug\net6.0\refint\esercizioTreni.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioTreni\esercizioTreni\obj\Debug\net6.0\esercizioTreni.pdb
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioTreni\esercizioTreni\obj\Debug\net6.0\esercizioTreni.genruntimeconfig.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\esercizioTreni\esercizioTreni\obj\Debug\net6.0\ref\esercizioTreni.dll
