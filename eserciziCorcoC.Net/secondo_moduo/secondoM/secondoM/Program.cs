@@ -1,6 +1,6 @@
 ﻿//                                                          MODULO 2
 //                                         esercizio 1 
-/*
+
 Console.WriteLine("inserisci dati");
 
 List<string?> datiUtenteStringList = new ();
@@ -24,7 +24,7 @@ else
 string? elements = string.Join(", ", datiUtenteStringList);
 string elemInt = string.Join(", ", datiUtenteInteriList.Select(x => x.ToString()));
 
-Console.WriteLine($"hai inserito queste parole: {elements}\n e questi numeri{elemInt}");
+Console.WriteLine($"hai inserito queste parole: {elements}\n e questi numeri: {elemInt}");
 
 datiUtenteInteriList.Reverse();
 datiUtenteStringList.Reverse();
@@ -34,7 +34,7 @@ string elemIntt = string.Join(", ", datiUtenteInteriList.Select(x => x.ToString(
 
 Console.WriteLine($"hai inserito queste parole: {elementst}\n e questi numeri: {elemIntt}");
 
-*/
+
 //                                                  esercizio 2 
 
 string[] nomi = new string[4];
@@ -68,10 +68,10 @@ foreach (var m in mixed)
     Console.WriteLine(m);
 }
 
-/*
+
                                                                 // esercizio 3
 
-using System.Runtime.InteropServices;
+//using System.Runtime.InteropServices;
 
 Queue<string?> userQueue = new Queue<string?>();
 
@@ -133,7 +133,7 @@ while (true)
 
                                                                 // esercizio 4
 
-using System.Xml.Schema;
+//using System.Xml.Schema;
 
 Stack<string?> userStack = new Stack<string?>();
 
@@ -195,18 +195,18 @@ while (true)
 
                                                                 // esercizio 7
 
-HashSet<string> nomi=new HashSet<string>();
-nomi.Add("marco");
-nomi.Add("marco");
-nomi.Add("Marco"); 
-nomi.Add("Marco"); 
-nomi.Add("marcO");
-nomi.Add("marcO");
+HashSet<string> nomis=new HashSet<string>();
+nomis.Add("marco");
+nomis.Add("marco");
+nomis.Add("Marco"); 
+nomis.Add("Marco"); 
+nomis.Add("marcO");
+nomis.Add("marcO");
 
-foreach (string s in nomi)
+foreach (string s in nomis)
 {
     Console.WriteLine(s);
-}foreach (string s in nomi)
+}foreach (string s in nomis)
 {
     Console.WriteLine( $"esempio : {s.ToLower()}");   
     // non li considera duplicati perche sono dati memorizzati diversamente, anche se vengono stamapti uguali
@@ -232,4 +232,3 @@ for(int i=0; i<=1000; i++)
     int max = numList.Max();
 
 Console.WriteLine($"il minimo in questa lista e': {min} mentre il massimo e': {max}");
-*/

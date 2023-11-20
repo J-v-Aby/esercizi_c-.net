@@ -3,7 +3,6 @@ using esercizi;
 
 Console.WriteLine("Hello, World! (esercizio 1");
 
-
 // 2' esercizio                                         Now it's personal
 Console.WriteLine("esercizio 2"); 
 
@@ -109,7 +108,16 @@ cat.Name = "Silvestro";
 cat.Age = 20;
 cat.Speak();
 
+// 7' sesercizio
+Modificari mod= new Modificari();
+Modificatori2 mod2= new Modificatori2();
 
+// Accedi ai membri utilizzando i metodi pubblici
+Console.WriteLine($"Membro Privato: {mod.OttieniMembroPrivato()}");
+Console.WriteLine($"Membro Protetto: {mod2.OttieniMembroProtetto()}");
+Console.WriteLine($"Membro Interno: {mod.OttieniMembroInterno()}");
+Console.WriteLine($"Membro Pubblico: {mod.membroPubblico}");
+    
 
 
 //8' esercizio                                              Was it a car or a cat I saw?
