@@ -18,6 +18,7 @@ namespace esercizi
         {
             return membroPrivato;           // Metodo pubblico che restituisce il membro privato
         }
+       
         public double OttieniMembroInterno()
         {
             return membroInterno;           // Metodo pubblico che restituisce il membro interno

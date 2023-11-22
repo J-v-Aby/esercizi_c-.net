@@ -14,7 +14,9 @@ listaTreni.AddFirst(new Treno("Roma"));
     }
 
     listaTreni.RemoveFirst();
+
 Console.WriteLine("");
+
 foreach (Treno t in listaTreni)
 {
     Console.WriteLine(t.nome);

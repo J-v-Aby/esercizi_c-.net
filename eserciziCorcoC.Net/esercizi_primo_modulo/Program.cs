@@ -90,9 +90,9 @@ const string path = "./ output.txt";
 File.AppendAllLines(path, new[] { userQuote2 });       // ????        contents:
 Console.WriteLine("il tuo ultimo proverbio");
 var text= File.ReadAllText(path); 
-var text2= File.ReadAllText("C:/Users/pc/Desktop/ptresentazione secondo progetto.txt"); 
+//var text2= File.ReadAllText("C:/Users/pc/Desktop/ptresentazione secondo progetto.txt");  // esempio con mio file locale
 Console.WriteLine(text);
-Console.WriteLine(text2);
+//Console.WriteLine(text2);
 
 
 //e 6' esercizio                                                Inheritance
