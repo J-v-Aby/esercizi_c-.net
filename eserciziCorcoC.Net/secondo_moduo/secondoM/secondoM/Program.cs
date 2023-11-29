@@ -3,22 +3,22 @@
 
 Console.WriteLine("inserisci dati");
 
-List<string?> datiUtenteStringList = new ();
+List<string?> datiUtenteStringList = new();
 List<int> datiUtenteInteriList = new List<int>();
 
 int numUtenti;
 
-for(int i = 0; i < 10; i++)
+for (int i = 0; i < 10; i++)
 {
     string? datiUtente = Console.ReadLine();
     if (int.TryParse(datiUtente, out numUtenti))
-{
-    datiUtenteInteriList.Add(numUtenti);
-}
-else
-{
-    datiUtenteStringList.Add(datiUtente);
-}
+    {
+        datiUtenteInteriList.Add(numUtenti);
+    }
+    else
+    {
+        datiUtenteStringList.Add(datiUtente);
+    }
 
 }
 string? elements = string.Join(", ", datiUtenteStringList);
@@ -212,12 +212,7 @@ foreach (string s in nomis)
     // non li considera duplicati perche sono dati memorizzati diversamente, anche se vengono stamapti uguali
 }
 
-
-
-
-
-
-
+       
                                                                 // esercizio 8
 
 List<int> numList = new List<int>();

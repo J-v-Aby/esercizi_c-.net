@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\dictionary\dictionary\bin\Debug\net6.0\dictionary.exe
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\dictionary\dictionary\bin\Debug\net6.0\dictionary.deps.json
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\dictionary\dictionary\bin\Debug\net6.0\dictionary.runtimeconfig.json
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\dictionary\dictionary\bin\Debug\net6.0\dictionary.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\dictionary\dictionary\bin\Debug\net6.0\dictionary.pdb
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\dictionary\dictionary\obj\Debug\net6.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\dictionary\dictionary\obj\Debug\net6.0\dictionary.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\dictionary\dictionary\obj\Debug\net6.0\dictionary.AssemblyInfo.cs
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\dictionary\dictionary\obj\Debug\net6.0\dictionary.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\dictionary\dictionary\obj\Debug\net6.0\dictionary.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\dictionary\dictionary\obj\Debug\net6.0\refint\dictionary.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\dictionary\dictionary\obj\Debug\net6.0\dictionary.pdb
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\dictionary\dictionary\obj\Debug\net6.0\dictionary.genruntimeconfig.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\secondo_moduo\dictionary\dictionary\obj\Debug\net6.0\ref\dictionary.dll

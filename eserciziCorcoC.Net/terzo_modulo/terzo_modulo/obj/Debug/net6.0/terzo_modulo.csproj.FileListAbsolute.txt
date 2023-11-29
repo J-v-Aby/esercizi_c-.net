@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\terzo_modulo\bin\Debug\net6.0\terzo_modulo.exe
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\terzo_modulo\bin\Debug\net6.0\terzo_modulo.deps.json
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\terzo_modulo\bin\Debug\net6.0\terzo_modulo.runtimeconfig.json
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\terzo_modulo\bin\Debug\net6.0\terzo_modulo.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\terzo_modulo\bin\Debug\net6.0\terzo_modulo.pdb
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\terzo_modulo\obj\Debug\net6.0\terzo_modulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\terzo_modulo\obj\Debug\net6.0\terzo_modulo.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\terzo_modulo\obj\Debug\net6.0\terzo_modulo.AssemblyInfo.cs
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\terzo_modulo\obj\Debug\net6.0\terzo_modulo.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\terzo_modulo\obj\Debug\net6.0\terzo_modulo.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\terzo_modulo\obj\Debug\net6.0\refint\terzo_modulo.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\terzo_modulo\obj\Debug\net6.0\terzo_modulo.pdb
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\terzo_modulo\obj\Debug\net6.0\terzo_modulo.genruntimeconfig.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\terzo_modulo\obj\Debug\net6.0\ref\terzo_modulo.dll
