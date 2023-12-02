@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_projecting\esercizio_projecting\obj\Debug\net6.0\esercizio_projecting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_projecting\esercizio_projecting\obj\Debug\net6.0\esercizio_projecting.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_projecting\esercizio_projecting\obj\Debug\net6.0\esercizio_projecting.AssemblyInfo.cs
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_projecting\esercizio_projecting\obj\Debug\net6.0\esercizio_projecting.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_projecting\esercizio_projecting\bin\Debug\net6.0\esercizio_projecting.exe
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_projecting\esercizio_projecting\bin\Debug\net6.0\esercizio_projecting.deps.json
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_projecting\esercizio_projecting\bin\Debug\net6.0\esercizio_projecting.runtimeconfig.json
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_projecting\esercizio_projecting\bin\Debug\net6.0\esercizio_projecting.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_projecting\esercizio_projecting\bin\Debug\net6.0\esercizio_projecting.pdb
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_projecting\esercizio_projecting\obj\Debug\net6.0\esercizio_projecting.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_projecting\esercizio_projecting\obj\Debug\net6.0\refint\esercizio_projecting.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_projecting\esercizio_projecting\obj\Debug\net6.0\esercizio_projecting.pdb
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_projecting\esercizio_projecting\obj\Debug\net6.0\esercizio_projecting.genruntimeconfig.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_projecting\esercizio_projecting\obj\Debug\net6.0\ref\esercizio_projecting.dll

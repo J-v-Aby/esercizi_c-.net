@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_Join\esercizio_Join\bin\Debug\net6.0\esercizio_Join.exe
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_Join\esercizio_Join\bin\Debug\net6.0\esercizio_Join.deps.json
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_Join\esercizio_Join\bin\Debug\net6.0\esercizio_Join.runtimeconfig.json
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_Join\esercizio_Join\bin\Debug\net6.0\esercizio_Join.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_Join\esercizio_Join\bin\Debug\net6.0\esercizio_Join.pdb
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_Join\esercizio_Join\obj\Debug\net6.0\esercizio_Join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_Join\esercizio_Join\obj\Debug\net6.0\esercizio_Join.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_Join\esercizio_Join\obj\Debug\net6.0\esercizio_Join.AssemblyInfo.cs
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_Join\esercizio_Join\obj\Debug\net6.0\esercizio_Join.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_Join\esercizio_Join\obj\Debug\net6.0\esercizio_Join.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_Join\esercizio_Join\obj\Debug\net6.0\refint\esercizio_Join.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_Join\esercizio_Join\obj\Debug\net6.0\esercizio_Join.pdb
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_Join\esercizio_Join\obj\Debug\net6.0\esercizio_Join.genruntimeconfig.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\terzo_modulo\esercizio_Join\esercizio_Join\obj\Debug\net6.0\ref\esercizio_Join.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "esercizio_projecting/1.0.0": {
+        "runtime": {
+          "esercizio_projecting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "esercizio_projecting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
