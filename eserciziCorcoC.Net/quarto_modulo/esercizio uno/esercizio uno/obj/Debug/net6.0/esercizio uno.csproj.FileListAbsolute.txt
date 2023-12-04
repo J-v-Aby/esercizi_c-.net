@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio uno\esercizio uno\bin\Debug\net6.0\esercizio uno.exe
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio uno\esercizio uno\bin\Debug\net6.0\esercizio uno.deps.json
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio uno\esercizio uno\bin\Debug\net6.0\esercizio uno.runtimeconfig.json
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio uno\esercizio uno\bin\Debug\net6.0\esercizio uno.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio uno\esercizio uno\bin\Debug\net6.0\esercizio uno.pdb
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio uno\esercizio uno\obj\Debug\net6.0\esercizio uno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio uno\esercizio uno\obj\Debug\net6.0\esercizio uno.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio uno\esercizio uno\obj\Debug\net6.0\esercizio uno.AssemblyInfo.cs
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio uno\esercizio uno\obj\Debug\net6.0\esercizio uno.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio uno\esercizio uno\obj\Debug\net6.0\esercizio uno.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio uno\esercizio uno\obj\Debug\net6.0\refint\esercizio uno.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio uno\esercizio uno\obj\Debug\net6.0\esercizio uno.pdb
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio uno\esercizio uno\obj\Debug\net6.0\esercizio uno.genruntimeconfig.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio uno\esercizio uno\obj\Debug\net6.0\ref\esercizio uno.dll
