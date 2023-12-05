@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_Asincrono\esercizio_Asincrono\bin\Debug\net6.0\esercizio_Asincrono.exe
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_Asincrono\esercizio_Asincrono\bin\Debug\net6.0\esercizio_Asincrono.deps.json
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_Asincrono\esercizio_Asincrono\bin\Debug\net6.0\esercizio_Asincrono.runtimeconfig.json
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_Asincrono\esercizio_Asincrono\bin\Debug\net6.0\esercizio_Asincrono.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_Asincrono\esercizio_Asincrono\bin\Debug\net6.0\esercizio_Asincrono.pdb
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_Asincrono\esercizio_Asincrono\obj\Debug\net6.0\esercizio_Asincrono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_Asincrono\esercizio_Asincrono\obj\Debug\net6.0\esercizio_Asincrono.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_Asincrono\esercizio_Asincrono\obj\Debug\net6.0\esercizio_Asincrono.AssemblyInfo.cs
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_Asincrono\esercizio_Asincrono\obj\Debug\net6.0\esercizio_Asincrono.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_Asincrono\esercizio_Asincrono\obj\Debug\net6.0\esercizio_Asincrono.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_Asincrono\esercizio_Asincrono\obj\Debug\net6.0\refint\esercizio_Asincrono.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_Asincrono\esercizio_Asincrono\obj\Debug\net6.0\esercizio_Asincrono.pdb
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_Asincrono\esercizio_Asincrono\obj\Debug\net6.0\esercizio_Asincrono.genruntimeconfig.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_Asincrono\esercizio_Asincrono\obj\Debug\net6.0\ref\esercizio_Asincrono.dll

@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_SOLID\esercizio_SOLID\bin\Debug\net6.0\esercizio_SOLID.exe
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_SOLID\esercizio_SOLID\bin\Debug\net6.0\esercizio_SOLID.deps.json
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_SOLID\esercizio_SOLID\bin\Debug\net6.0\esercizio_SOLID.runtimeconfig.json
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_SOLID\esercizio_SOLID\bin\Debug\net6.0\esercizio_SOLID.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_SOLID\esercizio_SOLID\bin\Debug\net6.0\esercizio_SOLID.pdb
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_SOLID\esercizio_SOLID\obj\Debug\net6.0\esercizio_SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_SOLID\esercizio_SOLID\obj\Debug\net6.0\esercizio_SOLID.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_SOLID\esercizio_SOLID\obj\Debug\net6.0\esercizio_SOLID.AssemblyInfo.cs
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_SOLID\esercizio_SOLID\obj\Debug\net6.0\esercizio_SOLID.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_SOLID\esercizio_SOLID\obj\Debug\net6.0\esercizio_SOLID.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_SOLID\esercizio_SOLID\obj\Debug\net6.0\refint\esercizio_SOLID.dll
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_SOLID\esercizio_SOLID\obj\Debug\net6.0\esercizio_SOLID.pdb
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_SOLID\esercizio_SOLID\obj\Debug\net6.0\esercizio_SOLID.genruntimeconfig.cache
+C:\Users\pc\Documents\DEVELHOP PACKAGES\eserciziCorcoC.Net\quarto_modulo\esercizio_SOLID\esercizio_SOLID\obj\Debug\net6.0\ref\esercizio_SOLID.dll
