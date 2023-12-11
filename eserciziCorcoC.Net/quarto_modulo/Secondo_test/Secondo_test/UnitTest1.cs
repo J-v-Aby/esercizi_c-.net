@@ -8,8 +8,9 @@ namespace Secondo_test
 
         public UnitTest1()
         {
-            coda = new MyQueue<int>();
+            coda = new MyQueue<int>();  // non caposco la correzione, non mi crea una coda nuova qui ogni volta che lancio il test?
         }
+
         [Fact]
         public void AddDeveAggiungereElementoAllaQueue()
         { 
@@ -25,6 +26,7 @@ namespace Secondo_test
             int elementoRimosso = coda.DeliteQ();
 
             Assert.Equal(65, (int)coda.DeliteQ());
+           
         }
 
         [Fact]
@@ -37,6 +39,7 @@ namespace Secondo_test
             int elementoInVista = coda.SeeQ();
 
             Assert.Equal(65, (int)coda.SeeQ());
+           
         }
     }
 }

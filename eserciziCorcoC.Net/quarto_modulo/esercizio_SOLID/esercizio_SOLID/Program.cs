@@ -29,12 +29,24 @@
 
 using esercizio_SOLID;
 
-MyQueueMethods<int> codaInt = new MyQueueMethods<int>();
+IntQueue codaInt = new IntQueue();
 codaInt.AddQ(1);
 codaInt.AddQ(2);
 codaInt.AddQ(3);
-Console.WriteLine($"Elemento {codaInt.SeeQ()}");
+Console.WriteLine($"Elemento {codaInt.SeeQInt()}");
 
 codaInt.DeliteQ();
 
-Console.WriteLine($"Elemento in testa alla coda dopo la rimozione: {codaInt.SeeQ()}");
+Console.WriteLine($"Elemento in testa alla coda dopo la rimozione: {codaInt.SeeQInt()}");
+
+
+StringQueue stringa= new StringQueue();
+
+stringa.AddQString("pippo");
+stringa.AddQString("pippo2");
+stringa.AddQString("pippo3");
+Console.WriteLine($"Elemento {stringa.SeeQString()}");
+
+stringa.DeliteQString();
+
+Console.WriteLine($"Elemento in testa alla coda dopo la rimozione: {stringa.SeeQString()}");

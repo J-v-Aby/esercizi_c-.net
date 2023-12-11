@@ -1,5 +1,6 @@
 using esercizio_uno;
 using System.Collections.Generic;
+using Xunit.Sdk;
 
 namespace Test_esercizio1
 {
@@ -22,7 +23,8 @@ namespace Test_esercizio1
 
             int elementoRimosso = coda.DeliteQ();
 
-            Assert.Equal(42, (int)coda.DeliteQ());
+            //   Assert.Equal(42, (int)coda.DeliteQ());
+            Assert.Throws<EmptyException>(() => coda.SeeQ());
         }
         [Fact]
         public void Decoda_DeveRimuovereElementoDallaCodaPiena()  
@@ -44,7 +46,8 @@ namespace Test_esercizio1
             int elementoRimosso = coda.DeliteQ();
             int elementoInVista = coda.SeeQ();
 
-            Assert.Equal(95, (int)coda.SeeQ());
+           // Assert.Equal(95, (int)coda.SeeQ());
+            Assert.Throws<EmptyException>(() => coda.SeeQ());
         }
         [Fact]
         public void Decoda_DeveMostriElementoDallaCodaPiena()
