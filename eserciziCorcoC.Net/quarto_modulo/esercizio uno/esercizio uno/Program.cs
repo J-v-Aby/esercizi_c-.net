@@ -14,3 +14,4 @@ codaInt.DeliteQ();
 
 Console.WriteLine($"Elemento in testa alla coda dopo la rimozione: {codaInt.SeeQ()}"); 
     
+//  CA1030
