@@ -12,6 +12,7 @@ namespace Secondo_test
         {
             FacciamoContentoAndrea();
         }
+
         private void FacciamoContentoAndrea()
         {
             if (coda == null)
