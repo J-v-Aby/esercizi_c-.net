@@ -28,16 +28,19 @@
 //ma entrambi dovrebbero dipendere da astrazioni... in questo caso le interfacce
 
 using esercizio_SOLID;
+using esercizio_SOLID.IMyQueueMethods;
+
+Logger log = new Logger();
 
 IntQueue codaInt = new IntQueue();
 codaInt.AddQ(1);
 codaInt.AddQ(2);
 codaInt.AddQ(3);
-Console.WriteLine($"Elemento {codaInt.SeeQInt()}");
+((ILogger)log).Logger($"Elemento {codaInt.SeeQInt()}");
 
 codaInt.DeliteQ();
 
-Console.WriteLine($"Elemento in testa alla coda dopo la rimozione: {codaInt.SeeQInt()}");
+((ILogger)log).Logger($"Elemento in testa alla coda dopo la rimozione: {codaInt.SeeQInt()}");
 
 
 StringQueue stringa= new StringQueue();
@@ -45,8 +48,7 @@ StringQueue stringa= new StringQueue();
 stringa.AddQString("pippo");
 stringa.AddQString("pippo2");
 stringa.AddQString("pippo3");
-Console.WriteLine($"Elemento {stringa.SeeQString()}");
+((ILogger)log).Logger($"Elemento {stringa.SeeQString()}");
 
 stringa.DeliteQString();
-
-Console.WriteLine($"Elemento in testa alla coda dopo la rimozione: {stringa.SeeQString()}");
+((ILogger)log).Logger($"Elemento in testa alla coda dopo la rimozione: {stringa.SeeQString()}");

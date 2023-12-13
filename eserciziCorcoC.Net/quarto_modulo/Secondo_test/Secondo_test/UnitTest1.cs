@@ -1,4 +1,5 @@
 using esercizio_uno;
+using System.Xml.Linq;
 
 namespace Secondo_test
 {
@@ -6,20 +7,30 @@ namespace Secondo_test
     {
         private MyQueue<int> coda;
 
+
         public UnitTest1()
         {
-            coda = new MyQueue<int>();  // non caposco la correzione, non mi crea una coda nuova qui ogni volta che lancio il test?
+            FacciamoContentoAndrea();
         }
+        private void FacciamoContentoAndrea()
+        {
+            if (coda == null)
+            {
+                coda = new MyQueue<int>();
 
+            }
+        }
         [Fact]
         public void AddDeveAggiungereElementoAllaQueue()
-        { 
+        {
+            FacciamoContentoAndrea();
             coda.AddQ(42);
         }
 
         [Fact]
         public void Decoda_DeveRimuovereElementoDallaCodaPiena()
         {
+            FacciamoContentoAndrea();
             coda.AddQ(95);
             coda.AddQ(65);
 
@@ -32,6 +43,7 @@ namespace Secondo_test
         [Fact]
         public void Decoda_DeveMostriElementoDallaCodaPiena()
         {
+            FacciamoContentoAndrea();
             coda.AddQ(95);
             coda.AddQ(65);
 
