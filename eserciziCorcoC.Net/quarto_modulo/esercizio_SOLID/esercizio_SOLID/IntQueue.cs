@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace esercizio_SOLID
 {
-    public class IntQueue 
+    public class IntQueue : MyQueueMethods<int>, IDequeue<int>, IPeek<int>, IQueue<int>
     {
         private MyQueueMethods<int> elemento;
 
@@ -22,14 +22,12 @@ namespace esercizio_SOLID
             this.elemento.AddQ(elemento);
         }
 
-
         public int DeliteQ()
         {
             return elemento.DeliteQ();
         }
 
-
-        public int SeeQInt()
+        public int SeeQ()
         {
             return elemento.SeeQ();
         }

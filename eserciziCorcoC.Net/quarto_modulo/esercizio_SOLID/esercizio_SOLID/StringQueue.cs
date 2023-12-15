@@ -1,4 +1,5 @@
-﻿using System;
+﻿using esercizio_SOLID.IMyQueueMethods;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace esercizio_SOLID
 {
-    public class StringQueue
+    public class StringQueue :MyQueueMethods<string>, IDequeue<string>, IPeek<string>, IQueue<string>
     {
         private MyQueueMethods<string> elemento;
 
@@ -14,8 +15,6 @@ namespace esercizio_SOLID
         {
             elemento = new MyQueueMethods<string>();
         }
-
-
         public void AddQString(string elemento)
         {
             this.elemento.AddQ(elemento);
@@ -32,6 +31,8 @@ namespace esercizio_SOLID
         {
             return elemento.SeeQ();
         }
+
+
     }
 }
 
